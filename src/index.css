@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Times New Roman", Times, serif;
+  --font-sans: "Times New Roman", Times, serif;
+  --font-mono: "Times New Roman", Times, serif;
+}
+
+@layer base {
+  body {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 12pt;
+    background-color: #f9fafb;
+    color: #111827;
+    margin: 0;
+    padding: 0;
+  }
+
+  /* Strictly enforce assignment requirements */
+  *, button, input, textarea, span, div {
+    font-family: "Times New Roman", Times, serif !important;
+    font-size: 12pt !important;
+    letter-spacing: normal !important;
+  }
+}
