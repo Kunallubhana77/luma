@@ -1,7 +1,10 @@
 # Luma - Biometric Authentication Local Lockbox
 
 **Live Demo:** [https://luma-luz53m3qo-kunallubhana77s-projects.vercel.app](https://luma-luz53m3qo-kunallubhana77s-projects.vercel.app)
-**Live Demo:** (https://kunallubhana77.github.io/luma/)
+
+
+**Live Demo:** https://kunallubhana77.github.io/luma/
+
 
 ## 📖 Project Description
 A highly secure, frontend-only ReactJS web application that leverages the **Web Authentication API (WebAuthn)** to lock and unlock sensitive text payloads using your device's built-in biometric sensors (Touch ID / Face ID / Windows Hello).
