@@ -1,7 +1,6 @@
 # Luma - Biometric Authentication Local Lockbox
 
-**Live Demo:** [https://luma-luz53m3qo-kunallubhana77s-projects.vercel.app](https://luma-luz53m3qo-kunallubhana77s-projects.vercel.app)
-
+**Live Demo:** https://luma-five-opal.vercel.app/
 
 **Live Demo:** https://kunallubhana77.github.io/luma/
 
